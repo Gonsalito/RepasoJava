@@ -2,7 +2,7 @@ package hojasejercicios;
 
 public class Motocicleta extends Vehiculo {
 
-	int numPlazas;
+	private int numPlazas;
 	
 	public Motocicleta(int numRuedas, int cilindrada, int potencia, int numPlazas) {
 		super(numRuedas, cilindrada, potencia);

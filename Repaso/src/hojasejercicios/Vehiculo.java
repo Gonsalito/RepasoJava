@@ -4,10 +4,10 @@ import java.awt.Color;
 
 public class Vehiculo {
 	
-	public int numRuedas; // >0 es un vehiculo, >6 es un camion  =2 es una moto
-	public int cilindrada;
-	public int potencia;
-	public Color color;
+	protected int numRuedas; // >0 es un vehiculo, >6 es un camion  =2 es una moto
+	protected int cilindrada;
+	protected int potencia;
+	protected Color color;
 	
 	public Vehiculo(int numRuedas, int cilindrada, int potencia) {
 		super();
