@@ -1,4 +1,4 @@
-package hojasejercicios;
+package hojaejercicios;
 
 import java.awt.Color;
 

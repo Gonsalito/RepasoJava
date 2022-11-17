@@ -1,4 +1,4 @@
-package hojasejercicios;
+package hojaejercicios;
 
 public class Motocicleta extends Vehiculo {
 
